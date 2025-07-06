@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I’m Nelson! 👋  
+Welcome to **The Punch**, my personal journal where I post writing, reviews, and snapshots.
+
+This space is for reflection, curiosity, and creative exploration — whether it's a book that evokes a strong emotion or a photo that captures a fleeting moment.
+
+Feel free to explore — and thanks for stopping by. 🌱
