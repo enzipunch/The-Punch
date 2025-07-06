@@ -3,12 +3,17 @@ name: Deploy GitHub Pages
 on:
   push:
     branches:
-      - master  # or "main" if that's your default branch
+      - master  # Change to "main" if that’s your default branch
 
 permissions:
   contents: read
   pages: write
   id-token: write
+
+# Required step to setup GitHub Pages
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -36,6 +41,7 @@ jobs:
         with:
           path: ./_site
 
+  # ✨ This sets up GitHub Pages before deploying
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -43,6 +49,9 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
