@@ -5,7 +5,7 @@ order: 4
 ---
 assets/img/NelPFP.JPG
 
-![Nelson Orellana](/The-Punch/assets/img/myphoto.jpg)
+![Nelson Orellana](/The-Punch/assets/img/NelPFP.JPG)
 
 Hi, I’m Nelson! 👋  
 Welcome to **The Punch**, my personal journal where I post writing, reviews, and snapshots.
