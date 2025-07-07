@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Nelson Orellana](/The-Punch/assets/img/NelPFP.JPG)
+![My photo]({{ "/assets/img/NelPFP.JPG" | relative_url }})
 
 Hi, I’m Nelson! 👋  
 Welcome to **The Punch**, my personal journal where I post writing, reviews, and snapshots.
