@@ -3,7 +3,6 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
-assets/img/NelPFP.JPG
 
 ![Nelson Orellana](/The-Punch/assets/img/NelPFP.JPG)
 
