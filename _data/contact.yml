@@ -21,7 +21,7 @@
 #
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-  URL: "www.linkedin.com/in/nelson-orellana-304b78211" # Fill with your Linkedin homepage
+  url: "www.linkedin.com/in/nelson-orellana-304b78211" # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
