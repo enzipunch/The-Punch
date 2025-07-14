@@ -4,6 +4,17 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<style>
+.profile-pic {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
 ![Nelson Orellana](/assets/img/NelPFP.JPG){: .profile-pic }
 
 Hi, I’m Nelson! 👋
