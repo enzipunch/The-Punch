@@ -17,7 +17,8 @@ order: 4
 
 ![Nelson Orellana](/assets/img/NelPFP.JPG){: .profile-pic }
 
-Hi, I’m Nelson! 👋
+Hi, I’m Nelson!
+
 Welcome to The Punch, my personal journal where I post writing, reviews, and snapshots.
 
 I hold a Master’s in English Literature from Mercy University, with a background in English and a minor in Computer Science. My work frequently explores the intersections of technology, storytelling, and identity, particularly through digital publishing and student-led projects.
